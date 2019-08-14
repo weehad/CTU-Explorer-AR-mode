@@ -1,0 +1,59 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\admin\\Desktop\\cloud\\cube\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\admin\\Desktop\\cloud\\cube\\src\\main\\res\\values\\color.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1",
+                        "startColumns": "-1,-1,-1",
+                        "startOffsets": "-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,101,148",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "96,143,194"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\admin\\Desktop\\cloud\\cube\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,82,-1,70,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,2,-1,2,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,3834,-1,3160,-1,-1",
+                        "endLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,89,-1,80,-1,-1",
+                        "endColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,11,-1,11,-1,-1",
+                        "endOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,4243,-1,3828,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "5,10,18,23,29,34,43,48,56,61,69,75,86,87",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "199,390,769,1008,1287,1472,1982,2205,2687,2865,3272,3546,4209,4258",
+                        "endLines": "9,17,22,28,33,42,47,55,60,68,74,85,86,87",
+                        "endColumns": "11,11,11,11,11,11,11,11,11,11,11,11,48,67",
+                        "endOffsets": "385,764,1003,1282,1467,1977,2200,2682,2860,3267,3541,4204,4253,4321"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\admin\\Desktop\\cloud\\cube\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1",
+                        "startColumns": "-1,-1,-1",
+                        "startOffsets": "-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "88,90,93",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "4326,4426,4564",
+                        "endLines": "89,92,96",
+                        "endColumns": "8,8,8",
+                        "endOffsets": "4421,4559,4786"
+                    }
+                }
+            ]
+        }
+    ]
+}
